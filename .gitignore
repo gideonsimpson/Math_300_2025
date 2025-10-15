@@ -29,3 +29,8 @@ JuliaLocalPreferences.toml
 
 # Temporary files created
 *.gif
+
+
+# Mac Files
+.DS_Store
+
